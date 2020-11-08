@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../CrossFadeBehavior.qml</file>
+        <file>../FadeBehavior.qml</file>
+        <file>../VisibleBehavior.qml</file>
+    </qresource>
+</RCC>
